@@ -12,9 +12,9 @@ import (
 
 	utils "github.com/ChainSafe/ChainBridge/shared/substrate"
 	subtest "github.com/ChainSafe/ChainBridge/shared/substrate/testing"
-	"github.com/ChainSafe/chainbridge-utils/blockstore"
-	"github.com/ChainSafe/chainbridge-utils/msg"
-	"github.com/centrifuge/go-substrate-rpc-client/types"
+	"github.com/egorgripasov/chainbridge-utils/blockstore"
+	"github.com/egorgripasov/chainbridge-utils/msg"
+	"github.com/snowfork/go-substrate-rpc-client/types"
 )
 
 const ListenerTimeout = time.Second * 30

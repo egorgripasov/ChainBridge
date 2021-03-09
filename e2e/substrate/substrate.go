@@ -10,11 +10,11 @@ import (
 	"time"
 
 	utils "github.com/ChainSafe/ChainBridge/shared/substrate"
-	"github.com/ChainSafe/chainbridge-utils/core"
-	"github.com/ChainSafe/chainbridge-utils/keystore"
-	"github.com/ChainSafe/chainbridge-utils/msg"
+	"github.com/egorgripasov/chainbridge-utils/core"
+	"github.com/egorgripasov/chainbridge-utils/keystore"
+	"github.com/egorgripasov/chainbridge-utils/msg"
 	"github.com/ChainSafe/log15"
-	"github.com/centrifuge/go-substrate-rpc-client/types"
+	"github.com/snowfork/go-substrate-rpc-client/types"
 )
 
 const TestSubEndpoint = "ws://localhost:9944"

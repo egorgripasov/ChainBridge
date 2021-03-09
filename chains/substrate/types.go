@@ -6,9 +6,9 @@ package substrate
 import (
 	"math/big"
 
-	"github.com/ChainSafe/chainbridge-utils/msg"
-	"github.com/centrifuge/go-substrate-rpc-client/scale"
-	"github.com/centrifuge/go-substrate-rpc-client/types"
+	"github.com/egorgripasov/chainbridge-utils/msg"
+	"github.com/snowfork/go-substrate-rpc-client/scale"
+	"github.com/snowfork/go-substrate-rpc-client/types"
 )
 
 type voteState struct {
