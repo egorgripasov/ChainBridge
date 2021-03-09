@@ -10,8 +10,8 @@ import (
 
 	"github.com/snowfork/go-substrate-rpc-client/types"
 
-	utils "github.com/ChainSafe/ChainBridge/shared/substrate"
-	subtest "github.com/ChainSafe/ChainBridge/shared/substrate/testing"
+	utils "github.com/egorgripasov/ChainBridge/shared/substrate"
+	subtest "github.com/egorgripasov/ChainBridge/shared/substrate/testing"
 	message "github.com/egorgripasov/chainbridge-utils/msg"
 )
 

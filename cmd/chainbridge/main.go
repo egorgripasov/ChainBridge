@@ -15,9 +15,9 @@ import (
 
 	"strconv"
 
-	"github.com/ChainSafe/ChainBridge/chains/ethereum"
-	"github.com/ChainSafe/ChainBridge/chains/substrate"
-	"github.com/ChainSafe/ChainBridge/config"
+	"github.com/egorgripasov/ChainBridge/chains/ethereum"
+	"github.com/egorgripasov/ChainBridge/chains/substrate"
+	"github.com/egorgripasov/ChainBridge/config"
 	"github.com/egorgripasov/chainbridge-utils/core"
 	"github.com/egorgripasov/chainbridge-utils/metrics/health"
 	metrics "github.com/egorgripasov/chainbridge-utils/metrics/types"

@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"testing"
 
-	eth "github.com/ChainSafe/ChainBridge/e2e/ethereum"
-	sub "github.com/ChainSafe/ChainBridge/e2e/substrate"
-	ethtest "github.com/ChainSafe/ChainBridge/shared/ethereum/testing"
-	subtest "github.com/ChainSafe/ChainBridge/shared/substrate/testing"
+	eth "github.com/egorgripasov/ChainBridge/e2e/ethereum"
+	sub "github.com/egorgripasov/ChainBridge/e2e/substrate"
+	ethtest "github.com/egorgripasov/ChainBridge/shared/ethereum/testing"
+	subtest "github.com/egorgripasov/ChainBridge/shared/substrate/testing"
 	log "github.com/ChainSafe/log15"
 )
 

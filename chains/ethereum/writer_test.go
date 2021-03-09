@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ChainSafe/ChainBridge/bindings/Bridge"
-	utils "github.com/ChainSafe/ChainBridge/shared/ethereum"
-	ethtest "github.com/ChainSafe/ChainBridge/shared/ethereum/testing"
+	"github.com/egorgripasov/ChainBridge/bindings/Bridge"
+	utils "github.com/egorgripasov/ChainBridge/shared/ethereum"
+	ethtest "github.com/egorgripasov/ChainBridge/shared/ethereum/testing"
 	"github.com/egorgripasov/chainbridge-utils/msg"
 	"github.com/ChainSafe/log15"
 	eth "github.com/ethereum/go-ethereum"

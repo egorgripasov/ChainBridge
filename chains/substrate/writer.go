@@ -11,7 +11,7 @@ import (
 
 	"github.com/egorgripasov/chainbridge-utils/core"
 
-	utils "github.com/ChainSafe/ChainBridge/shared/substrate"
+	utils "github.com/egorgripasov/ChainBridge/shared/substrate"
 	metrics "github.com/egorgripasov/chainbridge-utils/metrics/types"
 	"github.com/egorgripasov/chainbridge-utils/msg"
 	"github.com/ChainSafe/log15"

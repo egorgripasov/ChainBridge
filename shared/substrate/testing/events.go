@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	utils "github.com/ChainSafe/ChainBridge/shared/substrate"
+	utils "github.com/egorgripasov/ChainBridge/shared/substrate"
 	"github.com/ChainSafe/log15"
 	"github.com/snowfork/go-substrate-rpc-client/types"
 )

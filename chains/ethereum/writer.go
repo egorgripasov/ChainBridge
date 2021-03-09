@@ -4,7 +4,7 @@
 package ethereum
 
 import (
-	"github.com/ChainSafe/ChainBridge/bindings/Bridge"
+	"github.com/egorgripasov/ChainBridge/bindings/Bridge"
 	"github.com/egorgripasov/chainbridge-utils/core"
 	metrics "github.com/egorgripasov/chainbridge-utils/metrics/types"
 	"github.com/egorgripasov/chainbridge-utils/msg"
